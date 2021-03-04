@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/b-maxbot/bmax-bot.git
+> cd bmax-bot
 > bash install.sh
 ```
 
